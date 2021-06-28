@@ -1,0 +1,2471 @@
+fileFormatVersion: 2
+guid: e789e2d73a62f754f82b4fd9fc18e9b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1349322162740956297
+    second: Webito - Sprite_0
+  - first:
+      213: 8725086210931529538
+    second: Webito - Sprite_1
+  - first:
+      213: -7594974926925771394
+    second: Webito - Sprite_2
+  - first:
+      213: -2937530063942285794
+    second: Webito - Sprite_3
+  - first:
+      213: 1629098515743783816
+    second: Webito - Sprite_4
+  - first:
+      213: -3818663301690561510
+    second: Webito - Sprite_5
+  - first:
+      213: 9198051929062574642
+    second: Webito - Sprite_6
+  - first:
+      213: -3194765119149320926
+    second: Webito - Sprite_7
+  - first:
+      213: 3777543447072105838
+    second: Webito - Sprite_0
+  - first:
+      213: -3997206390101057266
+    second: Webito - Sprite_1
+  - first:
+      213: -5941585447852062815
+    second: Webito - Sprite_2
+  - first:
+      213: 6742631113044788752
+    second: Webito - Sprite_3
+  - first:
+      213: -4286100785771264409
+    second: Webito - Sprite_4
+  - first:
+      213: 1332383205316804240
+    second: Webito - Sprite_5
+  - first:
+      213: -2171089061761337891
+    second: Webito - Sprite_6
+  - first:
+      213: 4137465040466969089
+    second: Webito - Sprite_7
+  - first:
+      213: -4592434971033827603
+    second: Webito - Sprite_8
+  - first:
+      213: 2934045872071611875
+    second: Webito - Sprite_9
+  - first:
+      213: 7956643723103779391
+    second: Webito - Sprite_10
+  - first:
+      213: 3649337854164390325
+    second: Webito - Sprite_11
+  - first:
+      213: 5959579982841788100
+    second: Webito - Sprite_12
+  - first:
+      213: -7407987905401036634
+    second: Webito - Sprite_13
+  - first:
+      213: -8420788984426952945
+    second: Webito - Sprite_14
+  - first:
+      213: -6982600478082254526
+    second: Webito - Sprite_15
+  - first:
+      213: -4739200845262469018
+    second: Webito - Sprite_16
+  - first:
+      213: -6213719442136082815
+    second: Webito - Sprite_17
+  - first:
+      213: -2434876687739179897
+    second: Webito - Sprite_18
+  - first:
+      213: 4381038607958703850
+    second: Webito - Sprite_19
+  - first:
+      213: -8236569844942043650
+    second: Webito - Sprite_20
+  - first:
+      213: 5960105941277109928
+    second: Webito - Sprite_21
+  - first:
+      213: 6826710723191712850
+    second: Webito - Sprite_22
+  - first:
+      213: -417441840142988699
+    second: Webito - Sprite_23
+  - first:
+      213: -3446334106782829906
+    second: Webito - Sprite_24
+  - first:
+      213: 6070913993502385586
+    second: Webito - Sprite_25
+  - first:
+      213: 3922439724424886712
+    second: Webito - Sprite_26
+  - first:
+      213: 3943577110060136249
+    second: Webito - Sprite_27
+  - first:
+      213: 3551500929221217932
+    second: Webito - Sprite_28
+  - first:
+      213: 6963063457776589167
+    second: Webito - Sprite_29
+  - first:
+      213: 2016070253449565675
+    second: Webito - Sprite_30
+  - first:
+      213: 4171465896193996928
+    second: Webito - Sprite_31
+  - first:
+      213: -590442763521717585
+    second: Webito - Sprite_32
+  - first:
+      213: 1346364092919873137
+    second: Webito - Sprite_33
+  - first:
+      213: 8293394475849009544
+    second: Webito - Sprite_34
+  - first:
+      213: -418147749438789905
+    second: Webito - Sprite_35
+  - first:
+      213: 7542513383535181093
+    second: Webito - Sprite_36
+  - first:
+      213: 7961075195764687560
+    second: Webito - Sprite_37
+  - first:
+      213: 3257212917091551621
+    second: Webito - Sprite_38
+  - first:
+      213: -4138443076922851571
+    second: Webito - Sprite_39
+  - first:
+      213: 7805014545398680685
+    second: Webito - Sprite_40
+  - first:
+      213: 7533531864617205003
+    second: Webito - Sprite_41
+  - first:
+      213: 8024060241164674026
+    second: Webito - Sprite_42
+  - first:
+      213: -2445868387587422043
+    second: Webito - Sprite_43
+  - first:
+      213: 784651518500474316
+    second: Webito - Sprite_44
+  - first:
+      213: -450405375108827343
+    second: Webito - Sprite_45
+  - first:
+      213: -1900812187178318038
+    second: Webito - Sprite_46
+  - first:
+      213: 7108780562540849175
+    second: Webito - Sprite_47
+  - first:
+      213: 575642667768516116
+    second: Webito - Sprite_48
+  - first:
+      213: -625015449269935829
+    second: Webito - Sprite_49
+  - first:
+      213: -5283230789756850611
+    second: Webito - Sprite_50
+  - first:
+      213: 8115769845519845417
+    second: Webito - Sprite_51
+  - first:
+      213: -5949552004182220317
+    second: Webito - Sprite_52
+  - first:
+      213: 7827024457709894141
+    second: Webito - Sprite_53
+  - first:
+      213: 7511955659158561454
+    second: Webito - Sprite_54
+  - first:
+      213: -3453682849052213356
+    second: Webito - Sprite_55
+  - first:
+      213: 3663455001091091380
+    second: Webito - Sprite_56
+  - first:
+      213: -6550139278040389607
+    second: Webito - Sprite_57
+  - first:
+      213: 543805126499873919
+    second: Webito - Sprite_58
+  - first:
+      213: 6669730480076316100
+    second: Webito - Sprite_59
+  - first:
+      213: 6859442983687102816
+    second: Webito - Sprite_60
+  - first:
+      213: -456825597780435811
+    second: Webito - Sprite_61
+  - first:
+      213: 6423256671657612172
+    second: Webito - Sprite_62
+  - first:
+      213: -3992062254203327793
+    second: Webito - Sprite_63
+  - first:
+      213: -782791583968980463
+    second: Webito - Sprite_64
+  - first:
+      213: 6943552395787861472
+    second: Webito - Sprite_65
+  - first:
+      213: -3389049139751216320
+    second: Webito - Sprite_66
+  - first:
+      213: -5814310198537488575
+    second: Webito - Sprite_67
+  - first:
+      213: 3768664140164193165
+    second: Webito - Sprite_68
+  - first:
+      213: -1216609091934859095
+    second: Webito - Sprite_69
+  - first:
+      213: 6519669158620839091
+    second: Webito - Sprite_70
+  - first:
+      213: -3251146093045251118
+    second: Webito - Sprite_71
+  - first:
+      213: -2188713895992595115
+    second: Webito - Sprite_72
+  - first:
+      213: -5800672606911534118
+    second: Webito - Sprite_73
+  - first:
+      213: -4906819184489214637
+    second: Webito - Sprite_74
+  - first:
+      213: 1152820127648315399
+    second: Webito - Sprite_75
+  - first:
+      213: 4139245537304652568
+    second: Webito - Sprite_76
+  - first:
+      213: 5913996754544665769
+    second: Webito - Sprite_77
+  - first:
+      213: -5580755566278991963
+    second: Webito - Sprite_78
+  - first:
+      213: -7716111188459292185
+    second: Webito - Sprite_79
+  - first:
+      213: 1082298871114458372
+    second: Webito - Sprite_80
+  - first:
+      213: 2553101768352213991
+    second: Webito - Sprite_81
+  - first:
+      213: 1091602765979984838
+    second: Webito - Sprite_82
+  - first:
+      213: -7784530885741858087
+    second: Webito - Sprite_83
+  - first:
+      213: -8586959984074744338
+    second: Webito - Sprite_84
+  - first:
+      213: -4630980379032616689
+    second: Webito - Sprite_85
+  - first:
+      213: 7434836198655624874
+    second: Webito - Sprite_86
+  - first:
+      213: -3439866120174293121
+    second: Webito - Sprite_87
+  - first:
+      213: 4034628132707456456
+    second: Webito - Sprite_88
+  - first:
+      213: 7288720554064832002
+    second: Webito - Sprite_89
+  - first:
+      213: -6963837796453066537
+    second: Webito - Sprite_90
+  - first:
+      213: -6264039100872163788
+    second: Webito - Sprite_91
+  - first:
+      213: -397863565089290511
+    second: Webito - Sprite_92
+  - first:
+      213: 3706454824663695806
+    second: Webito - Sprite_93
+  - first:
+      213: 5353579089972616818
+    second: Webito - Sprite_94
+  - first:
+      213: -475995020512374040
+    second: Webito - Sprite_95
+  - first:
+      213: 6181798428730421187
+    second: Webito - Sprite_96
+  - first:
+      213: 1678424052999396993
+    second: Webito - Sprite_97
+  - first:
+      213: 9068449461131339064
+    second: Webito - Sprite_98
+  - first:
+      213: -7135674044634419702
+    second: Webito - Sprite_99
+  - first:
+      213: 1804197744389870250
+    second: Webito - Sprite_100
+  - first:
+      213: -5060111968531075583
+    second: Webito - Sprite_101
+  - first:
+      213: -5106246027245132937
+    second: Webito - Sprite_102
+  - first:
+      213: -5391564608873220251
+    second: Webito - Sprite_103
+  - first:
+      213: 7754507928539325428
+    second: Webito - Sprite_104
+  - first:
+      213: -5614879245272816142
+    second: Webito - Sprite_105
+  - first:
+      213: -8389309811998760996
+    second: Webito - Sprite_106
+  - first:
+      213: 1453931333661143887
+    second: Webito - Sprite_107
+  - first:
+      213: -988264723942161316
+    second: Webito - Sprite_108
+  - first:
+      213: 2374303712034575436
+    second: Webito - Sprite_109
+  - first:
+      213: 8124749114409243606
+    second: Webito - Sprite_110
+  - first:
+      213: -6864724543190197671
+    second: Webito - Sprite_111
+  - first:
+      213: -5698146664356202510
+    second: Webito - Sprite_112
+  - first:
+      213: -4227090619277227823
+    second: Webito - Sprite_113
+  - first:
+      213: 1997276196190405730
+    second: Webito - Sprite_114
+  - first:
+      213: 566609823754405991
+    second: Webito - Sprite_115
+  - first:
+      213: -5013570080893932150
+    second: Webito - Sprite_116
+  - first:
+      213: 8153742774463494231
+    second: Webito - Sprite_117
+  - first:
+      213: 8772556747035432744
+    second: Webito - Sprite_118
+  - first:
+      213: 7454183560949708428
+    second: Webito - Sprite_119
+  - first:
+      213: -2968232739432692083
+    second: Webito - Sprite_120
+  - first:
+      213: -4333104538341112688
+    second: Webito - Sprite_121
+  - first:
+      213: 5400616038608243366
+    second: Webito - Sprite_122
+  - first:
+      213: -2447905642941806837
+    second: Webito - Sprite_123
+  - first:
+      213: 352979010510218484
+    second: Webito - Sprite_124
+  - first:
+      213: -2200256852948115439
+    second: Webito - Sprite_125
+  - first:
+      213: 6568502312079295549
+    second: Webito - Sprite_126
+  - first:
+      213: 4804484155314185857
+    second: Webito - Sprite_127
+  - first:
+      213: 116166746616221415
+    second: Webito - Sprite_128
+  - first:
+      213: -433547249768816735
+    second: Webito - Sprite_129
+  - first:
+      213: 6361722625887486796
+    second: Webito - Sprite_130
+  - first:
+      213: 6238153822304389606
+    second: Webito - Sprite_131
+  - first:
+      213: -5069780153304937690
+    second: Webito - Sprite_132
+  - first:
+      213: -2570146945895300703
+    second: Webito - Sprite_133
+  - first:
+      213: 1131699959306950980
+    second: Webito - Sprite_134
+  - first:
+      213: -3063681215348569135
+    second: Webito - Sprite_135
+  - first:
+      213: 4436072420718942287
+    second: Webito - Sprite_136
+  - first:
+      213: 3529725819485683444
+    second: Webito - Sprite_137
+  - first:
+      213: 5460261392036735996
+    second: Webito - Sprite_138
+  - first:
+      213: 2644829151485824885
+    second: Webito - Sprite_139
+  - first:
+      213: -2912567160490742303
+    second: Webito - Sprite_140
+  - first:
+      213: -1998937198300443985
+    second: Webito - Sprite_141
+  - first:
+      213: 7553041659950284513
+    second: Webito - Sprite_142
+  - first:
+      213: -5579266652321291657
+    second: Webito - Sprite_143
+  - first:
+      213: 2099771798844479550
+    second: Webito - Sprite_144
+  - first:
+      213: -6675065999977608393
+    second: Webito - Sprite_145
+  - first:
+      213: 5956146338075270984
+    second: Webito - Sprite_146
+  - first:
+      213: 371922124130043126
+    second: Webito - Sprite_147
+  - first:
+      213: 6755038865334449296
+    second: Webito - Sprite_148
+  - first:
+      213: -6726742537290388497
+    second: Webito - Sprite_149
+  - first:
+      213: -6222551637718276176
+    second: Webito - Sprite_150
+  - first:
+      213: -6373012711906705528
+    second: Webito - Sprite_151
+  - first:
+      213: 7680747751618731148
+    second: Webito - Sprite_152
+  - first:
+      213: -2862000880937803610
+    second: Webito - Sprite_153
+  - first:
+      213: -1287907565255187643
+    second: Webito - Sprite_154
+  - first:
+      213: -5887353061659997106
+    second: Webito - Sprite_155
+  - first:
+      213: 7649073920939654877
+    second: Webito - Sprite_156
+  - first:
+      213: 3808747296025251361
+    second: Webito - Sprite_157
+  - first:
+      213: -5744412551488257642
+    second: Webito - Sprite_158
+  - first:
+      213: -2496269186343240216
+    second: Webito - Sprite_159
+  - first:
+      213: 7302183976982530520
+    second: Webito - Sprite_160
+  - first:
+      213: -6495290122097750509
+    second: Webito - Sprite_161
+  - first:
+      213: -3009155073826747024
+    second: Webito - Sprite_162
+  - first:
+      213: -5997193551247231211
+    second: Webito - Sprite_163
+  - first:
+      213: -5655057469125816573
+    second: Webito - Sprite_164
+  - first:
+      213: 7283847331324198650
+    second: Webito - Sprite_165
+  - first:
+      213: -4663100806451626913
+    second: Webito - Sprite_166
+  - first:
+      213: -2277780353575020286
+    second: Webito - Sprite_167
+  - first:
+      213: 1227478995796339942
+    second: Webito - Sprite_168
+  - first:
+      213: -5796743628839726011
+    second: Webito - Sprite_169
+  - first:
+      213: -4180454977624783974
+    second: Webito - Sprite_170
+  - first:
+      213: 6516862220824889347
+    second: Webito - Sprite_171
+  - first:
+      213: 4717586563888673666
+    second: Webito - Sprite_172
+  - first:
+      213: 7954444350684688859
+    second: Webito - Sprite_173
+  - first:
+      213: -5804896430488715517
+    second: Webito - Sprite_174
+  - first:
+      213: 1567132810265558847
+    second: Webito - Sprite_175
+  - first:
+      213: 6585356154452610422
+    second: Webito - Sprite_176
+  - first:
+      213: 3994082677655411198
+    second: Webito - Sprite_177
+  - first:
+      213: -1346057344681605613
+    second: Webito - Sprite_178
+  - first:
+      213: 1955924728458621093
+    second: Webito - Sprite_179
+  - first:
+      213: -2267350951525804651
+    second: Webito - Sprite_180
+  - first:
+      213: -8378607515646230930
+    second: Webito - Sprite_181
+  - first:
+      213: -3310307897731813620
+    second: Webito - Sprite_182
+  - first:
+      213: 7409354100627431139
+    second: Webito - Sprite_183
+  - first:
+      213: 3210205749271720084
+    second: Webito - Sprite_184
+  - first:
+      213: 1327348769071026146
+    second: Webito - Sprite_185
+  - first:
+      213: -8881341679143800365
+    second: Webito - Sprite_186
+  - first:
+      213: 8302093587719012820
+    second: Webito - Sprite_187
+  - first:
+      213: 7236201251044288533
+    second: Webito - Sprite_188
+  - first:
+      213: 2243575690290961599
+    second: Webito - Sprite_189
+  - first:
+      213: -1329941456496694843
+    second: Webito - Sprite_190
+  - first:
+      213: -1781931222203419143
+    second: Webito - Sprite_191
+  - first:
+      213: -5056735682095432764
+    second: Webito - Sprite_192
+  - first:
+      213: -3593466359456087550
+    second: Webito - Sprite_193
+  - first:
+      213: -4957534612244451244
+    second: Webito - Sprite_194
+  - first:
+      213: 8541970697389393039
+    second: Webito - Sprite_195
+  - first:
+      213: -3061301253936486824
+    second: Webito - Sprite_196
+  - first:
+      213: -7078433015181465126
+    second: Webito - Sprite_197
+  - first:
+      213: 5085895915224671048
+    second: Webito - Sprite_198
+  - first:
+      213: -993248860360384074
+    second: Webito - Sprite_199
+  - first:
+      213: -7532086301213159964
+    second: Webito - Sprite_200
+  - first:
+      213: -8715601718309684943
+    second: Webito - Sprite_201
+  - first:
+      213: 6887242771658520914
+    second: Webito - Sprite_202
+  - first:
+      213: -6523254549922485474
+    second: Webito - Sprite_203
+  - first:
+      213: -625217555406234755
+    second: Webito - Sprite_204
+  - first:
+      213: -1680738569788933888
+    second: Webito - Sprite_205
+  - first:
+      213: 6004626858169311144
+    second: Webito - Sprite_206
+  - first:
+      213: -7238550422683169672
+    second: Webito - Sprite_207
+  - first:
+      213: -5836925432046376090
+    second: Webito - Sprite_208
+  - first:
+      213: 978239596295745667
+    second: Webito - Sprite_209
+  - first:
+      213: -7274222718861306977
+    second: Webito - Sprite_210
+  - first:
+      213: 7612267437008225554
+    second: Webito - Sprite_211
+  - first:
+      213: -667027517472108378
+    second: Webito - Sprite_212
+  - first:
+      213: 6696107550142651488
+    second: Webito - Sprite_213
+  - first:
+      213: -2314132234054021668
+    second: Webito - Sprite_214
+  - first:
+      213: -739754035109549206
+    second: Webito - Sprite_215
+  - first:
+      213: -7256846378370444336
+    second: Webito - Sprite_216
+  - first:
+      213: 8787221253999463305
+    second: Webito - Sprite_217
+  - first:
+      213: 7481668286825570414
+    second: Webito - Sprite_218
+  - first:
+      213: 563437267159791606
+    second: Webito - Sprite_219
+  - first:
+      213: -3598898061099172789
+    second: Webito - Sprite_220
+  - first:
+      213: -8221078518266273566
+    second: Webito - Sprite_221
+  - first:
+      213: -7307895989078159197
+    second: Webito - Sprite_222
+  - first:
+      213: -2439473191426559849
+    second: Webito - Sprite_223
+  - first:
+      213: 4932974696037936286
+    second: Webito - Sprite_224
+  - first:
+      213: 1191433964514420152
+    second: Webito - Sprite_225
+  - first:
+      213: 1711819719414871901
+    second: Webito - Sprite_226
+  - first:
+      213: -5491158065172343871
+    second: Webito - Sprite_227
+  - first:
+      213: -3749271715150469618
+    second: Webito - Sprite_228
+  - first:
+      213: -8142139173563227838
+    second: Webito - Sprite_229
+  - first:
+      213: 1878241092324362655
+    second: Webito - Sprite_230
+  - first:
+      213: 8684614229632294030
+    second: Webito - Sprite_231
+  - first:
+      213: 5603293014621961582
+    second: Webito - Sprite_232
+  - first:
+      213: -1879283127203386790
+    second: Webito - Sprite_233
+  - first:
+      213: 2235570199772394973
+    second: Webito - Sprite_234
+  - first:
+      213: 239620597989176896
+    second: Webito - Sprite_235
+  - first:
+      213: 3004740676393029317
+    second: Webito - Sprite_236
+  - first:
+      213: -3804099334403320613
+    second: Webito - Sprite_237
+  - first:
+      213: 2237682243122598650
+    second: Webito - Sprite_238
+  - first:
+      213: 271709497999119049
+    second: Webito - Sprite_239
+  - first:
+      213: 5759808858891823066
+    second: Webito - Sprite_240
+  - first:
+      213: -8887509601524950810
+    second: Webito - Sprite_241
+  - first:
+      213: -5698880493981028541
+    second: Webito - Sprite_242
+  - first:
+      213: -7264261430080946850
+    second: Webito - Sprite_243
+  - first:
+      213: 3787495936053415379
+    second: Webito - Sprite_244
+  - first:
+      213: -8777976809114513325
+    second: Webito - Sprite_245
+  - first:
+      213: -5876799771431171087
+    second: Webito - Sprite_246
+  - first:
+      213: -9185397673167360707
+    second: Webito - Sprite_247
+  - first:
+      213: -6810408374839382120
+    second: Webito - Sprite_248
+  - first:
+      213: -317877021772811150
+    second: Webito - Sprite_249
+  - first:
+      213: -2485298008241950794
+    second: Webito - Sprite_250
+  - first:
+      213: -2345911516504623327
+    second: Webito - Sprite_251
+  - first:
+      213: 8919765437587461532
+    second: Webito - Sprite_252
+  - first:
+      213: -614917093382950400
+    second: Webito - Sprite_253
+  - first:
+      213: -2996407989951622292
+    second: Webito - Sprite_254
+  - first:
+      213: -323100274997674746
+    second: Webito - Sprite_255
+  - first:
+      213: 1216483904819588516
+    second: Webito - Sprite_256
+  - first:
+      213: -1121121448913011781
+    second: Webito - Sprite_257
+  - first:
+      213: -4234549842714185083
+    second: Webito - Sprite_258
+  - first:
+      213: -646519660607321702
+    second: Webito - Sprite_259
+  - first:
+      213: 8216522855356916246
+    second: Webito - Sprite_260
+  - first:
+      213: 2966063743384019381
+    second: Webito - Sprite_261
+  - first:
+      213: -309665460977068447
+    second: Webito - Sprite_262
+  - first:
+      213: 2897191585455409449
+    second: Webito - Sprite_263
+  - first:
+      213: 3711931277206362579
+    second: Webito - Sprite_264
+  - first:
+      213: -5195029062183097308
+    second: Webito - Sprite_265
+  - first:
+      213: -1680599995676079808
+    second: Webito - Sprite_266
+  - first:
+      213: -4473230675966565144
+    second: Webito - Sprite_267
+  - first:
+      213: -909117364732712834
+    second: Webito - Sprite_268
+  - first:
+      213: -455659677195785589
+    second: Webito - Sprite_269
+  - first:
+      213: -5506988572146202587
+    second: Webito - Sprite_270
+  - first:
+      213: -5971264388982013720
+    second: Webito - Sprite_271
+  - first:
+      213: -3905809093905782206
+    second: Webito - Sprite_272
+  - first:
+      213: -7181354930439160794
+    second: Webito - Sprite_273
+  - first:
+      213: -2150642859844577941
+    second: Webito - Sprite_274
+  - first:
+      213: 5150222301224071163
+    second: Webito - Sprite_275
+  - first:
+      213: -9055638207730920936
+    second: Webito - Sprite_276
+  - first:
+      213: 7583720094668559656
+    second: Webito - Sprite_277
+  - first:
+      213: 2241650103027912575
+    second: Webito - Sprite_278
+  - first:
+      213: 9073823227839242920
+    second: Webito - Sprite_279
+  - first:
+      213: 5702205819954033749
+    second: Webito - Sprite_280
+  - first:
+      213: 7692457399497688003
+    second: Webito - Sprite_281
+  - first:
+      213: 8954102983344226041
+    second: Webito - Sprite_282
+  - first:
+      213: 5077029025377874029
+    second: Webito - Sprite_283
+  - first:
+      213: -6838659597810610643
+    second: Webito - Sprite_284
+  - first:
+      213: -4031003350543671875
+    second: Webito - Sprite_285
+  - first:
+      213: 2612603228802029674
+    second: Webito - Sprite_286
+  - first:
+      213: -3020221624471185659
+    second: Webito - Sprite_287
+  - first:
+      213: 5830298977629053413
+    second: Webito - Sprite_288
+  - first:
+      213: 3388453187467004168
+    second: Webito - Sprite_289
+  - first:
+      213: 9014953143667127655
+    second: Webito - Sprite_290
+  - first:
+      213: 5357911788084794931
+    second: Webito - Sprite_291
+  - first:
+      213: 5818958886750030123
+    second: Webito - Sprite_292
+  - first:
+      213: -8770027161657470953
+    second: Webito - Sprite_293
+  - first:
+      213: -1168680796352000057
+    second: Webito - Sprite_294
+  - first:
+      213: 8150485282295311669
+    second: Webito - Sprite_295
+  - first:
+      213: 7354113331292230108
+    second: Webito - Sprite_296
+  - first:
+      213: 5579578319801332341
+    second: Webito - Sprite_297
+  - first:
+      213: 1983520154888832235
+    second: Webito - Sprite_298
+  - first:
+      213: 3460810930402466131
+    second: Webito - Sprite_299
+  - first:
+      213: -5576861290296798767
+    second: Webito - Sprite_300
+  - first:
+      213: -8726394896312605502
+    second: Webito - Sprite_301
+  - first:
+      213: -3230222710623088473
+    second: Webito - Sprite_302
+  - first:
+      213: -5039783986676604961
+    second: Webito - Sprite_303
+  - first:
+      213: -6049914574212946703
+    second: Webito - Sprite_304
+  - first:
+      213: 3648353557021061020
+    second: Webito - Sprite_305
+  - first:
+      213: 4037368081969560000
+    second: Webito - Sprite_306
+  - first:
+      213: -2924182987586636237
+    second: Webito - Sprite_307
+  - first:
+      213: -5101567664736104247
+    second: Webito - Sprite_308
+  - first:
+      213: 1107685663270296721
+    second: Webito - Sprite_309
+  - first:
+      213: -8010499551137186851
+    second: Webito - Sprite_310
+  - first:
+      213: 7717151283201912941
+    second: Webito - Sprite_311
+  - first:
+      213: 6692013111912305613
+    second: Webito - Sprite_312
+  - first:
+      213: -4579404424785336252
+    second: Webito - Sprite_313
+  - first:
+      213: 5137788533465713354
+    second: Webito - Sprite_314
+  - first:
+      213: -1746068053558593770
+    second: Webito - Sprite_315
+  - first:
+      213: 1799633079256036450
+    second: Webito - Sprite_316
+  - first:
+      213: 7905037777616211436
+    second: Webito - Sprite_317
+  - first:
+      213: 1585902619561082419
+    second: Webito - Sprite_318
+  - first:
+      213: 3893449529629553940
+    second: Webito - Sprite_319
+  - first:
+      213: -8939933843888697863
+    second: Webito - Sprite_320
+  - first:
+      213: -7108166829194080549
+    second: Webito - Sprite_321
+  - first:
+      213: -4546301522137257285
+    second: Webito - Sprite_322
+  - first:
+      213: -1288290070424256689
+    second: Webito - Sprite_323
+  - first:
+      213: -6214789162398600963
+    second: Webito - Sprite_324
+  - first:
+      213: -7131602716945891282
+    second: Webito - Sprite_325
+  - first:
+      213: -5453106594903929970
+    second: Webito - Sprite_326
+  - first:
+      213: 1693169202324296483
+    second: Webito - Sprite_327
+  - first:
+      213: 6502442959821859209
+    second: Webito - Sprite_328
+  - first:
+      213: -8616662571835585191
+    second: Webito - Sprite_329
+  - first:
+      213: 6252593506392374049
+    second: Webito - Sprite_330
+  - first:
+      213: -4536573244786858922
+    second: Webito - Sprite_331
+  - first:
+      213: 5842611744635219945
+    second: Webito - Sprite_332
+  - first:
+      213: -4779763194265865433
+    second: Webito - Sprite_333
+  - first:
+      213: -6959609607491381736
+    second: Webito - Sprite_334
+  - first:
+      213: -65979640602960455
+    second: Webito - Sprite_335
+  - first:
+      213: -9096448944605831197
+    second: Webito - Sprite_336
+  - first:
+      213: -2149485270057495206
+    second: Webito - Sprite_337
+  - first:
+      213: -599406280374827298
+    second: Webito - Sprite_338
+  - first:
+      213: 6341198815490904343
+    second: Webito - Sprite_339
+  - first:
+      213: 1340974947229181893
+    second: Webito - Sprite_340
+  - first:
+      213: -5606970787067284688
+    second: Webito - Sprite_341
+  - first:
+      213: 1621795443036326879
+    second: Webito - Sprite_342
+  - first:
+      213: -7579961811229316122
+    second: Webito - Sprite_343
+  - first:
+      213: -7207620439888079657
+    second: Webito - Sprite_344
+  - first:
+      213: 7017491087694953370
+    second: Webito - Sprite_345
+  - first:
+      213: -8813660605004842042
+    second: Webito - Sprite_346
+  - first:
+      213: -694118417571161811
+    second: Webito - Sprite_347
+  - first:
+      213: -409031347278973375
+    second: Webito - Sprite_348
+  - first:
+      213: -5438137642763890462
+    second: Webito - Sprite_349
+  - first:
+      213: 2869743702628834877
+    second: Webito - Sprite_350
+  - first:
+      213: -8855984988951970200
+    second: Webito - Sprite_351
+  - first:
+      213: 5489488992215130517
+    second: Webito - Sprite_352
+  - first:
+      213: -7121967390006740025
+    second: Webito - Sprite_353
+  - first:
+      213: -711785980420180820
+    second: Webito - Sprite_354
+  - first:
+      213: -4246119416099305689
+    second: Webito - Sprite_355
+  - first:
+      213: -2816235261752264425
+    second: Webito - Sprite_356
+  - first:
+      213: 6545483788195835317
+    second: Webito - Sprite_357
+  - first:
+      213: 2998161500490937952
+    second: Webito - Sprite_358
+  - first:
+      213: 8429111864967294369
+    second: Webito - Sprite_359
+  - first:
+      213: 560826712323453116
+    second: Webito - Sprite_360
+  - first:
+      213: -6392653253729404046
+    second: Webito - Sprite_361
+  - first:
+      213: -5983847932654043356
+    second: Webito - Sprite_362
+  - first:
+      213: -6682743955929963094
+    second: Webito - Sprite_363
+  - first:
+      213: 1519389008784937128
+    second: Webito - Sprite_364
+  - first:
+      213: 126640706045413124
+    second: Webito - Sprite_365
+  - first:
+      213: -3227225301602879594
+    second: Webito - Sprite_366
+  - first:
+      213: -1599773830240316359
+    second: Webito - Sprite_367
+  - first:
+      213: 3926701895244946862
+    second: Webito - Sprite_368
+  - first:
+      213: 6106574318568858290
+    second: Webito - Sprite_369
+  - first:
+      213: -3038049388867754118
+    second: Webito - Sprite_370
+  - first:
+      213: 129961940776948638
+    second: Webito - Sprite_371
+  - first:
+      213: -1449438824983218229
+    second: Webito - Sprite_372
+  - first:
+      213: 3840477346512737654
+    second: Webito - Sprite_373
+  - first:
+      213: 8493031492040636849
+    second: Webito - Sprite_374
+  - first:
+      213: 4855593737388904594
+    second: Webito - Sprite_375
+  - first:
+      213: 6842736178415874589
+    second: Webito - Sprite_376
+  - first:
+      213: -148452843682767733
+    second: Webito - Sprite_377
+  - first:
+      213: -2597346412901910934
+    second: Webito - Sprite_378
+  - first:
+      213: -7679760436931053396
+    second: Webito - Sprite_379
+  - first:
+      213: -456086601913446291
+    second: Webito - Sprite_380
+  - first:
+      213: 5687601327367886556
+    second: Webito - Sprite_381
+  - first:
+      213: -539258841482701006
+    second: Webito - Sprite_382
+  - first:
+      213: 3468498520891897302
+    second: Webito - Sprite_383
+  - first:
+      213: 5338939686024758615
+    second: Webito - Sprite_384
+  - first:
+      213: 7857951593030001173
+    second: Webito - Sprite_385
+  - first:
+      213: -7095702218852167879
+    second: Webito - Sprite_386
+  - first:
+      213: 8997167836006185944
+    second: Webito - Sprite_387
+  - first:
+      213: 7566778833049873500
+    second: Webito - Sprite_388
+  - first:
+      213: -7101287632347607957
+    second: Webito - Sprite_389
+  - first:
+      213: 8818123057432018640
+    second: Webito - Sprite_390
+  - first:
+      213: -9196587934340090502
+    second: Webito - Sprite_391
+  - first:
+      213: -422103327660178841
+    second: Webito - Sprite_392
+  - first:
+      213: -2385285872676643744
+    second: Webito - Sprite_393
+  - first:
+      213: -2843974841271172369
+    second: Webito - Sprite_394
+  - first:
+      213: -8765829222954225745
+    second: Webito - Sprite_395
+  - first:
+      213: 4759520709377479866
+    second: Webito - Sprite_396
+  - first:
+      213: 352478496492507501
+    second: Webito - Sprite_397
+  - first:
+      213: 7746272224004900996
+    second: Webito - Sprite_398
+  - first:
+      213: -8081684318563252372
+    second: Webito - Sprite_399
+  - first:
+      213: 1911823698555001297
+    second: Webito - Sprite_400
+  - first:
+      213: 1724340644353996323
+    second: Webito - Sprite_401
+  - first:
+      213: -7389058214918471871
+    second: Webito - Sprite_402
+  - first:
+      213: 4677147027087496166
+    second: Webito - Sprite_403
+  - first:
+      213: -167055529641744669
+    second: Webito - Sprite_404
+  - first:
+      213: -812778359309888101
+    second: Webito - Sprite_405
+  - first:
+      213: 5267036561142522898
+    second: Webito - Sprite_406
+  - first:
+      213: 3802994420029845503
+    second: Webito - Sprite_407
+  - first:
+      213: 5460393100425853334
+    second: Webito - Sprite_408
+  - first:
+      213: -1242725414184486909
+    second: Webito - Sprite_409
+  - first:
+      213: -8151759092686677510
+    second: Webito - Sprite_410
+  - first:
+      213: 7787322572092312845
+    second: Webito - Sprite_411
+  - first:
+      213: -3878831664919441966
+    second: Webito - Sprite_412
+  - first:
+      213: 2902626147669298241
+    second: Webito - Sprite_413
+  - first:
+      213: 4295734585355456676
+    second: Webito - Sprite_414
+  - first:
+      213: -4319638447350979322
+    second: Webito - Sprite_415
+  - first:
+      213: -2633738059993708243
+    second: Webito - Sprite_416
+  - first:
+      213: 4529922389029189829
+    second: Webito - Sprite_417
+  - first:
+      213: -2427269813178634204
+    second: Webito - Sprite_418
+  - first:
+      213: -39226786085666268
+    second: Webito - Sprite_419
+  - first:
+      213: 5541139531875024247
+    second: Webito - Sprite_420
+  - first:
+      213: -6185776821132867054
+    second: Webito - Sprite_421
+  - first:
+      213: 6141267491442771232
+    second: Webito - Sprite_422
+  - first:
+      213: -7057251549037839982
+    second: Webito - Sprite_423
+  - first:
+      213: 265274973163369179
+    second: Webito - Sprite_424
+  - first:
+      213: -163042039904951200
+    second: Webito - Sprite_425
+  - first:
+      213: -8963433235275214408
+    second: Webito - Sprite_426
+  - first:
+      213: 525699512748718267
+    second: Webito - Sprite_427
+  - first:
+      213: -150415740406736960
+    second: Webito - Sprite_428
+  - first:
+      213: -1340172852394144068
+    second: Webito - Sprite_429
+  - first:
+      213: -9178047293866538700
+    second: Webito - Sprite_430
+  - first:
+      213: 4351832671924132944
+    second: Webito - Sprite_431
+  - first:
+      213: -7040813598664621654
+    second: Webito - Sprite_432
+  - first:
+      213: 8081801434157734107
+    second: Webito - Sprite_433
+  - first:
+      213: -7671552889764811977
+    second: Webito - Sprite_434
+  - first:
+      213: 3593045365841869648
+    second: Webito - Sprite_435
+  - first:
+      213: -6313391434249990566
+    second: Webito - Sprite_436
+  - first:
+      213: 8021912073492551635
+    second: Webito - Sprite_437
+  - first:
+      213: 7182236969096601686
+    second: Webito - Sprite_438
+  - first:
+      213: 1917235115998020235
+    second: Webito - Sprite_439
+  - first:
+      213: 3357285247371252903
+    second: Webito - Sprite_440
+  - first:
+      213: 8927826938838068684
+    second: Webito - Sprite_441
+  - first:
+      213: -3241583150187926643
+    second: Webito - Sprite_442
+  - first:
+      213: 3609587989326244147
+    second: Webito - Sprite_443
+  - first:
+      213: -6333450354769536422
+    second: Webito - Sprite_444
+  - first:
+      213: -3678297215502065852
+    second: Webito - Sprite_445
+  - first:
+      213: 7367725316128663538
+    second: Webito - Sprite_446
+  - first:
+      213: 345562270130963209
+    second: Webito - Sprite_447
+  - first:
+      213: -4798288996127515940
+    second: Webito - Sprite_448
+  - first:
+      213: 1258047092802360708
+    second: Webito - Sprite_449
+  - first:
+      213: 8165976477832321908
+    second: Webito - Sprite_450
+  - first:
+      213: -9108387324312387703
+    second: Webito - Sprite_451
+  - first:
+      213: 8600515143458059781
+    second: Webito - Sprite_452
+  - first:
+      213: 8412749215964247156
+    second: Webito - Sprite_453
+  - first:
+      213: -5715436306163888909
+    second: Webito - Sprite_454
+  - first:
+      213: 8019006811406379162
+    second: Webito - Sprite_455
+  - first:
+      213: -6086605791101758203
+    second: Webito - Sprite_456
+  - first:
+      213: -6424513689717133602
+    second: Webito - Sprite_457
+  - first:
+      213: 3765197770244570634
+    second: Webito - Sprite_458
+  - first:
+      213: -530445013039540134
+    second: Webito - Sprite_459
+  - first:
+      213: -3956938635512447407
+    second: Webito - Sprite_460
+  - first:
+      213: 3149591047450979971
+    second: Webito - Sprite_461
+  - first:
+      213: -7253472190745423404
+    second: Webito - Sprite_462
+  - first:
+      213: -8942204709191568007
+    second: Webito - Sprite_463
+  - first:
+      213: -7774317420576065637
+    second: Webito - Sprite_464
+  - first:
+      213: 6402184378075539000
+    second: Webito - Sprite_465
+  - first:
+      213: -1304455983818843147
+    second: Webito - Sprite_466
+  - first:
+      213: 5488474229757478715
+    second: Webito - Sprite_467
+  - first:
+      213: 8792801140050613890
+    second: Webito - Sprite_468
+  - first:
+      213: -3801995326745485435
+    second: Webito - Sprite_469
+  - first:
+      213: -3476901068158005768
+    second: Webito - Sprite_470
+  - first:
+      213: -6081060343193283697
+    second: Webito - Sprite_471
+  - first:
+      213: 6048039147834543960
+    second: Webito - Sprite_472
+  - first:
+      213: 4194330481351306775
+    second: Webito - Sprite_473
+  - first:
+      213: 8159682886587373395
+    second: Webito - Sprite_474
+  - first:
+      213: 3737823026030668282
+    second: Webito - Sprite_475
+  - first:
+      213: 3024060625825480411
+    second: Webito - Sprite_476
+  - first:
+      213: -8205304697618502939
+    second: Webito - Sprite_477
+  - first:
+      213: 1673699743274279259
+    second: Webito - Sprite_478
+  - first:
+      213: -8592206335368610916
+    second: Webito - Sprite_479
+  - first:
+      213: -314606828105343924
+    second: Webito - Sprite_480
+  - first:
+      213: -1035340339555819833
+    second: Webito - Sprite_481
+  - first:
+      213: -7774347062394398586
+    second: Webito - Sprite_482
+  - first:
+      213: -5096127875249505099
+    second: Webito - Sprite_483
+  - first:
+      213: 7680749971423040766
+    second: Webito - Sprite_484
+  - first:
+      213: 3837825008040978188
+    second: Webito - Sprite_485
+  - first:
+      213: 6519551129310504321
+    second: Webito - Sprite_486
+  - first:
+      213: 8609346569985872875
+    second: Webito - Sprite_487
+  - first:
+      213: 50926566565843727
+    second: Webito - Sprite_488
+  - first:
+      213: 3210385323909158169
+    second: Webito - Sprite_489
+  - first:
+      213: 9216038396880630565
+    second: Webito - Sprite_490
+  - first:
+      213: -1615463095475894319
+    second: Webito - Sprite_491
+  - first:
+      213: -7620576996017576352
+    second: Webito - Sprite_492
+  - first:
+      213: 3980881692624437258
+    second: Webito - Sprite_493
+  - first:
+      213: -5059544865245068423
+    second: Webito - Sprite_494
+  - first:
+      213: -7598368936776062601
+    second: Webito - Sprite_495
+  - first:
+      213: 2507556476221680235
+    second: Webito - Sprite_496
+  - first:
+      213: 4866211476760807481
+    second: Webito - Sprite_497
+  - first:
+      213: -5492621664286741861
+    second: Webito - Sprite_498
+  - first:
+      213: -3472451655303025901
+    second: Webito - Sprite_499
+  - first:
+      213: 879780745254201621
+    second: Webito - Sprite_500
+  - first:
+      213: -7812621477257335473
+    second: Webito - Sprite_501
+  - first:
+      213: 3144008786188018623
+    second: Webito - Sprite_502
+  - first:
+      213: -7828688280313848729
+    second: Webito - Sprite_503
+  - first:
+      213: 3556800219294465344
+    second: Webito - Sprite_504
+  - first:
+      213: -3034070066919751467
+    second: Webito - Sprite_505
+  - first:
+      213: -800022740913710909
+    second: Webito - Sprite_506
+  - first:
+      213: 2801974303759474623
+    second: Webito - Sprite_507
+  - first:
+      213: -3950322920479434589
+    second: Webito - Sprite_508
+  - first:
+      213: -6284709788435806740
+    second: Webito - Sprite_509
+  - first:
+      213: -6965162202542752378
+    second: Webito - Sprite_510
+  - first:
+      213: -7207800599346765043
+    second: Webito - Sprite_511
+  - first:
+      213: -7755541801845471617
+    second: Webito - Sprite_512
+  - first:
+      213: 7540542267379758548
+    second: Webito - Sprite_513
+  - first:
+      213: 1001053397183269983
+    second: Webito - Sprite_514
+  - first:
+      213: -7658975730965064920
+    second: Webito - Sprite_515
+  - first:
+      213: 5209529137563738845
+    second: Webito - Sprite_516
+  - first:
+      213: -3789483244854311179
+    second: Webito - Sprite_517
+  - first:
+      213: 7585378923491381604
+    second: Webito - Sprite_518
+  - first:
+      213: 2376647143724751474
+    second: Webito - Sprite_519
+  - first:
+      213: 391327903344446613
+    second: Webito - Sprite_520
+  - first:
+      213: 1336308188271531833
+    second: Webito - Sprite_521
+  - first:
+      213: 8442673956761896649
+    second: Webito - Sprite_522
+  - first:
+      213: 9080848312093818065
+    second: Webito - Sprite_523
+  - first:
+      213: -541802913857856031
+    second: Webito - Sprite_524
+  - first:
+      213: -3962093805218460063
+    second: Webito - Sprite_525
+  - first:
+      213: 5129917936502103612
+    second: Webito - Sprite_526
+  - first:
+      213: 6496911770057883251
+    second: Webito - Sprite_527
+  - first:
+      213: -9014103307214058130
+    second: Webito - Sprite_528
+  - first:
+      213: 3031751556024360607
+    second: Webito - Sprite_529
+  - first:
+      213: -5044336910066469357
+    second: Webito - Sprite_530
+  - first:
+      213: 2057516899856506255
+    second: Webito - Sprite_531
+  - first:
+      213: -836547973817765387
+    second: Webito - Sprite_532
+  - first:
+      213: -6204614900825587152
+    second: Webito - Sprite_533
+  - first:
+      213: -6570242392828206060
+    second: Webito - Sprite_534
+  - first:
+      213: 9030719978916066890
+    second: Webito - Sprite_535
+  - first:
+      213: 1470724415238528246
+    second: Webito - Sprite_536
+  - first:
+      213: 8967345896234267463
+    second: Webito - Sprite_537
+  - first:
+      213: 5424971729172295102
+    second: Webito - Sprite_538
+  - first:
+      213: 4704475722155248306
+    second: Webito - Sprite_539
+  - first:
+      213: -796154425562263563
+    second: Webito - Sprite_540
+  - first:
+      213: 7805814168313911051
+    second: Webito - Sprite_541
+  - first:
+      213: -667307622740716012
+    second: Webito - Sprite_542
+  - first:
+      213: 6404571663790611328
+    second: Webito - Sprite_543
+  - first:
+      213: -9079138779272005327
+    second: Webito - Sprite_544
+  - first:
+      213: 4036608607329175683
+    second: Webito - Sprite_545
+  - first:
+      213: 302772524468112200
+    second: Webito - Sprite_546
+  - first:
+      213: -1158605570157966280
+    second: Webito - Sprite_547
+  - first:
+      213: -3043627208303190501
+    second: Webito - Sprite_548
+  - first:
+      213: 518835680224325941
+    second: Webito - Sprite_549
+  - first:
+      213: -7596227628416442782
+    second: Webito - Sprite_550
+  - first:
+      213: 4835225334155853633
+    second: Webito - Sprite_551
+  - first:
+      213: -772908016033780580
+    second: Webito - Sprite_552
+  - first:
+      213: 5017305147448069799
+    second: Webito - Sprite_553
+  - first:
+      213: -6287720245519298340
+    second: Webito - Sprite_554
+  - first:
+      213: -5681249630256882248
+    second: Webito - Sprite_555
+  - first:
+      213: 1595579308120626212
+    second: Webito - Sprite_556
+  - first:
+      213: -561991495988607464
+    second: Webito - Sprite_557
+  - first:
+      213: -5688813290031558732
+    second: Webito - Sprite_558
+  - first:
+      213: 6994927835576795876
+    second: Webito - Sprite_559
+  - first:
+      213: 8802926229276671528
+    second: Webito - Sprite_560
+  - first:
+      213: -5132535218341199362
+    second: Webito - Sprite_561
+  - first:
+      213: 6424472620909647233
+    second: Webito - Sprite_562
+  - first:
+      213: 1781138264850542172
+    second: Webito - Sprite_563
+  - first:
+      213: -2457436420458279561
+    second: Webito - Sprite_564
+  - first:
+      213: -1024621541130209960
+    second: Webito - Sprite_565
+  - first:
+      213: 7909879459539554945
+    second: Webito - Sprite_566
+  - first:
+      213: -1197301052217367577
+    second: Webito - Sprite_567
+  - first:
+      213: -6104871702579757342
+    second: Webito - Sprite_568
+  - first:
+      213: -8047111702078330620
+    second: Webito - Sprite_569
+  - first:
+      213: 2182999251913491311
+    second: Webito - Sprite_570
+  - first:
+      213: -4230480303628488688
+    second: Webito - Sprite_571
+  - first:
+      213: 8139546596734343320
+    second: Webito - Sprite_572
+  - first:
+      213: -266318768640695416
+    second: Webito - Sprite_573
+  - first:
+      213: 5881809667919705250
+    second: Webito - Sprite_574
+  - first:
+      213: 5753297109805374900
+    second: Webito - Sprite_575
+  - first:
+      213: 2269656766312136737
+    second: Webito - Sprite_576
+  - first:
+      213: -6670652307373157805
+    second: Webito - Sprite_577
+  - first:
+      213: -9160375551180176449
+    second: Webito - Sprite_578
+  - first:
+      213: -866538932499349517
+    second: Webito - Sprite_579
+  - first:
+      213: 2107652165267254383
+    second: Webito - Sprite_580
+  - first:
+      213: -144871363779402712
+    second: Webito - Sprite_581
+  - first:
+      213: 8210614606876957017
+    second: Webito - Sprite_582
+  - first:
+      213: 560716048930458330
+    second: Webito - Sprite_583
+  - first:
+      213: -5193165073163325884
+    second: Webito - Sprite_584
+  - first:
+      213: 6547796610032952886
+    second: Webito - Sprite_585
+  - first:
+      213: 7519542259190516633
+    second: Webito - Sprite_586
+  - first:
+      213: -3517193737498423516
+    second: Webito - Sprite_587
+  - first:
+      213: 2814761883639154543
+    second: Webito - Sprite_588
+  - first:
+      213: 7860677644320838326
+    second: Webito - Sprite_589
+  - first:
+      213: -5923075168810792745
+    second: Webito - Sprite_590
+  - first:
+      213: 2308685867758659680
+    second: Webito - Sprite_591
+  - first:
+      213: -8152845924604782779
+    second: Webito - Sprite_592
+  - first:
+      213: -2371476418789813068
+    second: Webito - Sprite_593
+  - first:
+      213: -7057812883957505909
+    second: Webito - Sprite_594
+  - first:
+      213: 136061633842633983
+    second: Webito - Sprite_595
+  - first:
+      213: 4493481668493682517
+    second: Webito - Sprite_596
+  - first:
+      213: -7048918122472725691
+    second: Webito - Sprite_597
+  - first:
+      213: 6413031009207902057
+    second: Webito - Sprite_598
+  - first:
+      213: -6856032818046964846
+    second: Webito - Sprite_599
+  - first:
+      213: -8487329784164846674
+    second: Webito - Sprite_600
+  - first:
+      213: 6275110429616483454
+    second: Webito - Sprite_601
+  - first:
+      213: 1393594351064457836
+    second: Webito - Sprite_602
+  - first:
+      213: 1322243330144176267
+    second: Webito - Sprite_603
+  - first:
+      213: 1075802677688776509
+    second: Webito - Sprite_604
+  - first:
+      213: 7279511025007495445
+    second: Webito - Sprite_605
+  - first:
+      213: -623476825788027971
+    second: Webito - Sprite_606
+  - first:
+      213: 1102021429026092214
+    second: Webito - Sprite_607
+  - first:
+      213: 7770009733912778443
+    second: Webito - Sprite_608
+  - first:
+      213: 7221501874109481804
+    second: Webito - Sprite_609
+  - first:
+      213: 7716327177022693283
+    second: Webito - Sprite_610
+  - first:
+      213: -4069392452397651021
+    second: Webito - Sprite_611
+  - first:
+      213: 6507926634566540075
+    second: Webito - Sprite_612
+  - first:
+      213: 4065884094707333377
+    second: Webito - Sprite_613
+  - first:
+      213: -1011739530922381015
+    second: Webito - Sprite_614
+  - first:
+      213: 8780489935570757775
+    second: Webito - Sprite_615
+  - first:
+      213: -5861946248410792460
+    second: Webito - Sprite_616
+  - first:
+      213: -1205005547158223131
+    second: Webito - Sprite_617
+  - first:
+      213: 4134094604207291853
+    second: Webito - Sprite_618
+  - first:
+      213: 2083950531076657028
+    second: Webito - Sprite_619
+  - first:
+      213: -5782690884569362159
+    second: Webito - Sprite_620
+  - first:
+      213: -4533367124100329303
+    second: Webito - Sprite_621
+  - first:
+      213: -6962133726091472147
+    second: Webito - Sprite_622
+  - first:
+      213: -5033893290620399453
+    second: Webito - Sprite_623
+  - first:
+      213: 4951971227559040012
+    second: Webito - Sprite_624
+  - first:
+      213: 8541234839102957582
+    second: Webito - Sprite_625
+  - first:
+      213: -273072350673858470
+    second: Webito - Sprite_626
+  - first:
+      213: -7961629844439879344
+    second: Webito - Sprite_627
+  - first:
+      213: -2165607522093550930
+    second: Webito - Sprite_628
+  - first:
+      213: 5022884962167291002
+    second: Webito - Sprite_629
+  - first:
+      213: 4131069175365177279
+    second: Webito - Sprite_630
+  - first:
+      213: -8552698991795061455
+    second: Webito - Sprite_631
+  - first:
+      213: 4374902868918999673
+    second: Webito - Sprite_632
+  - first:
+      213: -6182605944752420450
+    second: Webito - Sprite_633
+  - first:
+      213: 7912023918471393626
+    second: Webito - Sprite_634
+  - first:
+      213: 3085796118332642987
+    second: Webito - Sprite_635
+  - first:
+      213: -452765864551601540
+    second: Webito - Sprite_636
+  - first:
+      213: 1114667094480744075
+    second: Webito - Sprite_637
+  - first:
+      213: -5525355247690052897
+    second: Webito - Sprite_638
+  - first:
+      213: 3303192104940253662
+    second: Webito - Sprite_639
+  - first:
+      213: -2817015708508254328
+    second: Webito - Sprite_640
+  - first:
+      213: -3614475156210113790
+    second: Webito - Sprite_641
+  - first:
+      213: -3780806561588129002
+    second: Webito - Sprite_642
+  - first:
+      213: 629521610413491678
+    second: Webito - Sprite_643
+  - first:
+      213: -8312567298579937662
+    second: Webito - Sprite_644
+  - first:
+      213: -6238450305697845896
+    second: Webito - Sprite_645
+  - first:
+      213: 2281238911543823584
+    second: Webito - Sprite_646
+  - first:
+      213: -455089912071244319
+    second: Webito - Sprite_647
+  - first:
+      213: -3490168091773647750
+    second: Webito - Sprite_648
+  - first:
+      213: -5903654830871398971
+    second: Webito - Sprite_649
+  - first:
+      213: 5254929569092918278
+    second: Webito - Sprite_650
+  - first:
+      213: -2846857650026543799
+    second: Webito - Sprite_651
+  - first:
+      213: 8951231805938657257
+    second: Webito - Sprite_652
+  - first:
+      213: -7612814809898030327
+    second: Webito - Sprite_653
+  - first:
+      213: 2929607776092828070
+    second: Webito - Sprite_654
+  - first:
+      213: -2737520612317595762
+    second: Webito - Sprite_655
+  - first:
+      213: -728837416533682216
+    second: Webito - Sprite_656
+  - first:
+      213: 3165104079254329043
+    second: Webito - Sprite_657
+  - first:
+      213: 2206901700901910413
+    second: Webito - Sprite_658
+  - first:
+      213: -4124232073274244454
+    second: Webito - Sprite_659
+  - first:
+      213: -6555525178722953704
+    second: Webito - Sprite_660
+  - first:
+      213: 4772836543232327475
+    second: Webito - Sprite_661
+  - first:
+      213: 2972002810274706609
+    second: Webito - Sprite_662
+  - first:
+      213: 5494479825413469033
+    second: Webito - Sprite_663
+  - first:
+      213: -787097327410444581
+    second: Webito - Sprite_664
+  - first:
+      213: 7255283656485984863
+    second: Webito - Sprite_665
+  - first:
+      213: -8075132182315139386
+    second: Webito - Sprite_666
+  - first:
+      213: -8731153634218176895
+    second: Webito - Sprite_667
+  - first:
+      213: 5615715344016623821
+    second: Webito - Sprite_668
+  - first:
+      213: -2029034989593478678
+    second: Webito - Sprite_669
+  - first:
+      213: -2784384975610948748
+    second: Webito - Sprite_670
+  - first:
+      213: 3014045200353053671
+    second: Webito - Sprite_671
+  - first:
+      213: -2983687294264519062
+    second: Webito - Sprite_672
+  - first:
+      213: 4421204007357730049
+    second: Webito - Sprite_673
+  - first:
+      213: -2843522157420325583
+    second: Webito - Sprite_674
+  - first:
+      213: -1614614874618014651
+    second: Webito - Sprite_675
+  - first:
+      213: -7247701215718221487
+    second: Webito - Sprite_676
+  - first:
+      213: 3371406766633868708
+    second: Webito - Sprite_677
+  - first:
+      213: -7097935356528076715
+    second: Webito - Sprite_678
+  - first:
+      213: -7245749676859964085
+    second: Webito - Sprite_679
+  - first:
+      213: -7895672673583729246
+    second: Webito - Sprite_680
+  - first:
+      213: -4388628477353582378
+    second: Webito - Sprite_681
+  - first:
+      213: -8644390610313490264
+    second: Webito - Sprite_682
+  - first:
+      213: 6323116392058922815
+    second: Webito - Sprite_683
+  - first:
+      213: -1136230614773407698
+    second: Webito - Sprite_684
+  - first:
+      213: 1647258056183307176
+    second: Webito - Sprite_685
+  - first:
+      213: -9215051373332325746
+    second: Webito - Sprite_686
+  - first:
+      213: 236662625512535104
+    second: Webito - Sprite_687
+  - first:
+      213: -5645400422707188903
+    second: Webito - Sprite_688
+  - first:
+      213: -7522356095137273607
+    second: Webito - Sprite_689
+  - first:
+      213: -3780388348326443770
+    second: Webito - Sprite_690
+  - first:
+      213: -3886597558682188754
+    second: Webito - Sprite_691
+  - first:
+      213: -5220505502263891675
+    second: Webito - Sprite_692
+  - first:
+      213: 3125713770159056011
+    second: Webito - Sprite_693
+  - first:
+      213: -571917925695835662
+    second: Webito - Sprite_694
+  - first:
+      213: 7200638614963571155
+    second: Webito - Sprite_695
+  - first:
+      213: -6727434231592747100
+    second: Webito - Sprite_696
+  - first:
+      213: 5017917354559227525
+    second: Webito - Sprite_697
+  - first:
+      213: 5687629440538068875
+    second: Webito - Sprite_698
+  - first:
+      213: -3904043044422525107
+    second: Webito - Sprite_699
+  - first:
+      213: -6772761623057004963
+    second: Webito - Sprite_700
+  - first:
+      213: 4333946052889686757
+    second: Webito - Sprite_701
+  - first:
+      213: 2411329464935257338
+    second: Webito - Sprite_702
+  - first:
+      213: 6523025947088589519
+    second: Webito - Sprite_703
+  - first:
+      213: 9214289901553150027
+    second: Webito - Sprite_704
+  - first:
+      213: 1667824346868726083
+    second: Webito - Sprite_705
+  - first:
+      213: -8761661891913199123
+    second: Webito - Sprite_706
+  - first:
+      213: 7023166980414399312
+    second: Webito - Sprite_707
+  - first:
+      213: 3837205413222904341
+    second: Webito - Sprite_708
+  - first:
+      213: -4066207973056099078
+    second: Webito - Sprite_709
+  - first:
+      213: 4504738768741494771
+    second: Webito - Sprite_710
+  - first:
+      213: 7366958079633223284
+    second: Webito - Sprite_711
+  - first:
+      213: -7263156148678176931
+    second: Webito - Sprite_712
+  - first:
+      213: 2442863374701144072
+    second: Webito - Sprite_713
+  - first:
+      213: -5680918019616314401
+    second: Webito - Sprite_714
+  - first:
+      213: 67104422628624333
+    second: Webito - Sprite_715
+  - first:
+      213: 344308956453804905
+    second: Webito - Sprite_716
+  - first:
+      213: 8693446501137856314
+    second: Webito - Sprite_717
+  - first:
+      213: -8260712573640371289
+    second: Webito - Sprite_718
+  - first:
+      213: -5449770360339628240
+    second: Webito - Sprite_719
+  - first:
+      213: -4295161306574865645
+    second: Webito - Sprite_720
+  - first:
+      213: -5993041705925409202
+    second: Webito - Sprite_721
+  - first:
+      213: -5187186283854189987
+    second: Webito - Sprite_722
+  - first:
+      213: 1914871595486196612
+    second: Webito - Sprite_723
+  - first:
+      213: -3326598009172468470
+    second: Webito - Sprite_724
+  - first:
+      213: 5138507893647450737
+    second: Webito - Sprite_725
+  - first:
+      213: 9183673801619583844
+    second: Webito - Sprite_726
+  - first:
+      213: -6813794634191535000
+    second: Webito - Sprite_727
+  - first:
+      213: 2090464127510303443
+    second: Webito - Sprite_728
+  - first:
+      213: 6018559313330345938
+    second: Webito - Sprite_729
+  - first:
+      213: -6541440743716235518
+    second: Webito - Sprite_730
+  - first:
+      213: -5491703683442828874
+    second: Webito - Sprite_731
+  - first:
+      213: 5957360715030932133
+    second: Webito - Sprite_732
+  - first:
+      213: 2640526404995550760
+    second: Webito - Sprite_733
+  - first:
+      213: 2182865358526801757
+    second: Webito - Sprite_734
+  - first:
+      213: -6639643359691159438
+    second: Webito - Sprite_735
+  - first:
+      213: 6291166757806135135
+    second: Webito - Sprite_736
+  - first:
+      213: -1278621259511915943
+    second: Webito - Sprite_737
+  - first:
+      213: -6566089569300163547
+    second: Webito - Sprite_738
+  - first:
+      213: 3108228540793782146
+    second: Webito - Sprite_739
+  - first:
+      213: 8271004051193527014
+    second: Webito - Sprite_740
+  - first:
+      213: 6291624084516584307
+    second: Webito - Sprite_741
+  - first:
+      213: 3040024510606145104
+    second: Webito - Sprite_742
+  - first:
+      213: 4768333210370724161
+    second: Webito - Sprite_743
+  - first:
+      213: -296844663154159580
+    second: Webito - Sprite_744
+  - first:
+      213: -6031036107098796982
+    second: Webito - Sprite_745
+  - first:
+      213: -8328548373827455000
+    second: Webito - Sprite_746
+  - first:
+      213: -2423445482724208628
+    second: Webito - Sprite_747
+  - first:
+      213: -4060824992984362842
+    second: Webito - Sprite_748
+  - first:
+      213: 5312847452219189686
+    second: Webito - Sprite_749
+  - first:
+      213: 5805469761181450509
+    second: Webito - Sprite_750
+  - first:
+      213: 6089267140351594394
+    second: Webito - Sprite_751
+  - first:
+      213: -5393902207088995969
+    second: Webito - Sprite_752
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Webito - Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1750
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65665630c78c6430800000000000000
+      internalID: 3777543447072105838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Webito - Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 1750
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ea1067f11788c0800000000000000
+      internalID: -3997206390101057266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Webito - Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 1750
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7c52ad38f3b8da0800000000000000
+      internalID: -5941585447852062815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Webito - Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 1750
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0160888f543a29d50800000000000000
+      internalID: 6742631113044788752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
