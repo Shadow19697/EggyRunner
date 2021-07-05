@@ -39,6 +39,10 @@ public class GameScript : MonoBehaviour
                 if (Input.GetKeyDown(KeyCode.Escape)){
                     Application.Quit();
                 }
+                //if (Input.GetKeyDown("q"))
+                //{
+                //    PlayerPrefs.DeleteAll();
+                //}
             } else{ // ---------------------------Jugando
                 Contador += Time.deltaTime * 8;
                 Puntaje.text = "Score: " + (int)Contador;

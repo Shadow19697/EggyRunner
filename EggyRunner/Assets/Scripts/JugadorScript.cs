@@ -19,6 +19,10 @@ public class JugadorScript : MonoBehaviour
         SaltoDoble = false;
         Explosion.Pause();
         Webito.Pause();
+        this.GetComponent<JugadorScript>().Webito.transform.position = new Vector3(
+             this.GetComponent<JugadorScript>().Webito.transform.position.x,
+              this.GetComponent<JugadorScript>().Webito.transform.position.y,
+               -13);
     }
 
     // Update is called once per frame
@@ -45,6 +49,10 @@ public class JugadorScript : MonoBehaviour
         EnPiso = true;
         SaltoDoble = false;
         if (C1.collider.gameObject.CompareTag("Obstacle") && (this.GetComponent<SpriteRenderer>().enabled != false)){
+            this.GetComponent<JugadorScript>().Webito.transform.position = new Vector3(
+             this.GetComponent<JugadorScript>().Webito.transform.position.x,
+              this.GetComponent<JugadorScript>().Webito.transform.position.y,
+               -8);
             Explosion.Play();
             Webito.Play();
             this.GetComponent<SpriteRenderer>().enabled = false;
