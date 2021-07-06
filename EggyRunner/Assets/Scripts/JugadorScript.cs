@@ -20,26 +20,26 @@ public class JugadorScript : MonoBehaviour
         Explosion.Pause();
         Webito.Pause();
         this.GetComponent<JugadorScript>().Webito.transform.position = new Vector3(
-             this.GetComponent<JugadorScript>().Webito.transform.position.x,
-              this.GetComponent<JugadorScript>().Webito.transform.position.y,
-               -13);
+            this.GetComponent<JugadorScript>().Webito.transform.position.x,
+            this.GetComponent<JugadorScript>().Webito.transform.position.y,
+            -13); // Por cuestiones que desconozco, probando el juego no aparece esta animación en el "Game", pero en el Build si, por lo que lo saco de camara
     }
 
     // Update is called once per frame
     void Update(){
-        if (this.GetComponent<SpriteRenderer>().enabled != false){
-            if (Input.GetKeyDown("space") && SaltoDoble){
+        if (this.GetComponent<SpriteRenderer>().enabled != false){ // Si el Webo es visible
+            if (Input.GetKeyDown("space") && SaltoDoble){ // Salto doble
                 Sonido.PlayOneShot(Salto, 1f);
                 SaltoDoble = false;
                 this.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, PotSalto / 4));
             }
-            if (Input.GetKeyDown("space") && EnPiso){
+            if (Input.GetKeyDown("space") && EnPiso){ // Salto simple
                 Sonido.PlayOneShot(Salto, 1f);
                 EnPiso = false;
-                SaltoDoble = true;
+                SaltoDoble = true; // Para permitir hacer el doble salto
                 this.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, PotSalto));
             }
-            if (Input.GetKeyDown("down") && !EnPiso){
+            if (Input.GetKeyDown("down") && !EnPiso){ // Bajar rápido
                 this.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, -PotSalto));
             }
         }
@@ -48,22 +48,19 @@ public class JugadorScript : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D C1){
         EnPiso = true;
         SaltoDoble = false;
-        if (C1.collider.gameObject.CompareTag("Obstacle") && (this.GetComponent<SpriteRenderer>().enabled != false)){
-            this.GetComponent<JugadorScript>().Webito.transform.position = new Vector3(
-             this.GetComponent<JugadorScript>().Webito.transform.position.x,
-              this.GetComponent<JugadorScript>().Webito.transform.position.y,
-               -8);
+        if (C1.collider.gameObject.CompareTag("Obstacle") && (this.GetComponent<SpriteRenderer>().enabled != false)){ // En caso de chocar un obstáculo
+            this.GetComponent<JugadorScript>().Webito.transform.position = new Vector3( 
+                this.GetComponent<JugadorScript>().Webito.transform.position.x,
+                this.GetComponent<JugadorScript>().Webito.transform.position.y,
+                -8); // Vuelvo a poner en posición la animación
             Explosion.Play();
             Webito.Play();
-            this.GetComponent<SpriteRenderer>().enabled = false;
-            this.transform.position = new Vector3(this.transform.position.x,
-                this.transform.position.y,
-                this.transform.position.z);
+            this.GetComponent<SpriteRenderer>().enabled = false; // Desactivo la visibilidad del Webo para no destruirlo
             this.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
         }
     }
 
-    private void OnTriggerStay2D(Collider2D collision){
+    private void OnTriggerStay2D(Collider2D collision){ // Se encuentra en el piso
         EnPiso = true;
         SaltoDoble = false;
     }

@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class PlataformController : MonoBehaviour
 {
-    public GameObject Piso1;
-    public GameObject Piso2;
+    public GameObject[] Pisos;
     public GameObject Juego;
 
     private int Contador;
+    private int Velocidad;
+    private int Indice;
+
     private bool Vel1;
     private bool Vel2;
     private bool Vel3;
@@ -17,46 +19,42 @@ public class PlataformController : MonoBehaviour
 
     // Start is called before the first frame update
     void Start(){
-        Piso1.GetComponent<PlataformScript>().Velocidad = 8;
-        Piso2.GetComponent<PlataformScript>().Velocidad = 8;
         Vel1 = true;
         Vel2 = true;
         Vel3 = true;
         Vel4 = true;
+        Velocidad = 8;
+        Indice = 0;
     }
 
     // Update is called once per frame
     void Update(){
-        Contador = (int)Juego.GetComponent<GameScript>().Contador;
-        if(!Juego.GetComponent<GameScript>().Fin){
-            if (Contador == 50 && Vel1)
-            {
-                Piso1.GetComponent<PlataformScript>().Velocidad += 2;
-                Piso2.GetComponent<PlataformScript>().Velocidad += 2;
+        Contador = (int)Juego.GetComponent<GameScript>().Contador; // Copia del contadr del GameScript
+        if (!Juego.GetComponent<GameScript>().Fin){ // Si comenzó el juego 
+
+            Pisos[Indice].GetComponent<PlataformScript>().Velocidad = Velocidad;
+            Pisos[Indice+1].GetComponent<PlataformScript>().Velocidad = Velocidad;
+
+            if (Contador == 100 && Vel1){ // Primer cambio de velocidad
+                Velocidad += 1;
                 Vel1 = false;
             }
-            if (Contador == 100 && Vel2)
-            {
-                Piso1.GetComponent<PlataformScript>().Velocidad += 2;
-                Piso2.GetComponent<PlataformScript>().Velocidad += 2;
+            if (Contador == 200 && Vel2){  // Segundo cambio de velocidad
+                Velocidad += 1;
                 Vel2 = false;
             }
-            if (Contador == 150 && Vel3)
-            {
-                Piso1.GetComponent<PlataformScript>().Velocidad += 2;
-                Piso2.GetComponent<PlataformScript>().Velocidad += 2;
+            if (Contador == 300 && Vel3){ // Tercer cambio de velocidad
+                Velocidad += 2;
                 Vel3 = false;
             }
-            if (Contador == 200 && Vel4)
-            {
-                Piso1.GetComponent<PlataformScript>().Velocidad += 2;
-                Piso2.GetComponent<PlataformScript>().Velocidad += 2;
+            if (Contador == 400 && Vel4){ // Cuarto cambio de velocidad
+                Velocidad += 1;
                 Vel4 = false;
             }
         }
-        else{
-            Piso1.GetComponent<PlataformScript>().Velocidad = 0;
-            Piso2.GetComponent<PlataformScript>().Velocidad = 0;
+        else{ // Si pierdo, detengo los pisos
+            Pisos[Indice].GetComponent<PlataformScript>().Velocidad = 0;
+            Pisos[Indice + 1].GetComponent<PlataformScript>().Velocidad = 0;
         }
     }
 }
